@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibryam512
 - 👀 I’m interested in web development, design and algorithms
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Web and Mobile development and software architectures
 - 📫 How to reach me:
   LinkedIn: https://www.linkedin.com/in/ibryam-ibryamov-90184a231/
 
