@@ -24,10 +24,10 @@ Soon :)
 [![My Skills](https://skillicons.dev/icons?i=net,spring,mysql,postgres)](https://skillicons.dev)
 
 ### Studying at the moment:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,azure)](https://skillicons.dev)
 
 
 
 ## 🏆 Achievements
 
-- 🌟 Аwarded with distinction because of the MES "IT Skills and Career Training" program.
+- 🌟 Аwarded with distinction from the MES "IT Skills and Career Training" program.
